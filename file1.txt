@@ -1,3 +1,2 @@
 Hello from Notepad
-Let's see this through
-We are DB
+Let's see this 
